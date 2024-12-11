@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandesh13fr" alt="sandesh13fr" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/sandesh13fr" target="blank"><img src="https://img.shields.io/twitter/follow/techrobandha?logo=twitter&style=for-the-badge" alt="techrobandha" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sandesh13fr" target="blank"><img src="https://img.shields.io/twitter/follow/sandesh13fr?logo=twitter&style=for-the-badge" alt="sandesh13fr" /></a> </p>
 
 - ℹ️Resume [in making](in making)
 
