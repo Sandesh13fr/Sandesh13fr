@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sandesh13fr" target="blank"><img src="https://img.shields.io/twitter/follow/sandesh13fr?logo=twitter&style=for-the-badge" alt="sandesh13fr" /></a> </p>
 
-- ℹ️Resume [in making](in making)
+- <a href="https://Sandesh13fr.me" >ℹ️Resume</a>
 
 - ⚡ Fun fact **I believe in constant improvement—each line of code is a step closer to mastery! 🚀**
 
