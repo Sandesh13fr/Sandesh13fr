@@ -6,7 +6,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=sandesh13fr&color=6e40c9&style=flat-square&label=Profile+Views)](https://github.com/Sandesh13fr)
 [![Portfolio](https://img.shields.io/badge/Portfolio-sandesh13fr.me-6e40c9?style=flat-square&logo=vercel&logoColor=white)](https://Sandesh13fr.me)
-[![Twitter Follow](https://img.shields.io/twitter/follow/techrobandha?logo=twitter&style=flat-square&color=1DA1F2)](https://twitter.com/techrobandha)
+[![Twitter Follow](https://img.shields.io/twitter/follow/sandesh13fr?logo=twitter&style=flat-square&color=1DA1F2)](https://twitter.com/sandesh13fr)
 
 </div>
 
@@ -102,7 +102,7 @@ I'm a **Full-Stack Developer** and **AI/ML enthusiast** from India, passionate a
 
 <p align="left">
 <a href="https://linkedin.com/in/sandesh13fr" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://twitter.com/techrobandha" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+<a href="https://twitter.com/sandesh13fr" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
 <a href="https://medium.com/@sandeshdawkhar13" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
 <a href="https://dev.to/sandesh13fr" target="_blank"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" /></a>
 <a href="https://instagram.com/sandesh13.0_jrdev" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
